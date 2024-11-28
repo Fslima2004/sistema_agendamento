@@ -1,0 +1,10 @@
+pyproject.toml
+setup.py
+src/sistema_agendamento.egg-info/PKG-INFO
+src/sistema_agendamento.egg-info/SOURCES.txt
+src/sistema_agendamento.egg-info/dependency_links.txt
+src/sistema_agendamento.egg-info/requires.txt
+src/sistema_agendamento.egg-info/top_level.txt
+tests/test_controller.py
+tests/test_model.py
+tests/test_view.py
